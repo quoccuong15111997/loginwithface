@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DangNhapBangF</string>
+    <string name="facebook_app_id">2325978260950659</string> <string name="fb_login_protocol_scheme">fb2325978260950659</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
+</resources>
